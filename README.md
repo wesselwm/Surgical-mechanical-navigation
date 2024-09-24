@@ -1,2 +1,2 @@
 # Surgical-mechanical-navigation
-This repository contains the code for our approach to use mechanical tracking with 6-DOF to track patients during surgery. The code uses mainly python and the ROS framework. There is also a Notebook on ROM simulations.
+This repository contains the code for our approach to use mechanical tracking with 6-DOF to track patients during surgery. The code uses mainly python and the ROS framework. There is also a Notebook on ROM simulations..
